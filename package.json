@@ -6,6 +6,10 @@
     "@semantic-release/gitlab": "^13.0.3",
     "semantic-release": "^23.0.7"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thornbug90/test-automatics.git"
+  },
   "publishConfig": {
     "access": "public"
   },
